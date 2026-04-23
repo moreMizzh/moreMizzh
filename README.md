@@ -54,7 +54,7 @@
 ---
 
 <div align="center">
-  <p>⭐️ From 渣渣华 | Updated [最近更新日期，如 2025.11]</p>
+  <p>⭐️ From 渣渣华 | Updated  2025.11</p>
 </div>
 
 <!--
